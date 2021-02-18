@@ -1,1 +1,1 @@
-body{background:#000}
+a{margin-bottom:10px}a:nth-child(even),a:nth-child(odd){text-decoration:none;display:block;color:teal}a:nth-child(even){color:#dc143c}
